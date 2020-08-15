@@ -1,9 +1,9 @@
 {
    "extension":[
       {
-         "title":"HTTP",
-         "description":"Connect to service on internet via HTTP",
-         "git":"https://github.com/microBlock-IDE/HTTP-extension",
+         "title":"MQTT",
+         "description":"Connect things via MQTT",
+         "git":"https://github.com/microBlock-IDE/MQTT-extension",
          "author":"Sonthaya Nongnuch",
          "version":"1.0.0",
          "image":"/static/display.png"
