@@ -1,6 +1,6 @@
 {
    "mqtt_extension": {
-      "title":"MQTT",
+      "name":"MQTT",
       "description":"Connect things via MQTT",
       "github":"https://github.com/microBlock-IDE/MQTT-extension",
       "author":"Sonthaya Nongnuch",
