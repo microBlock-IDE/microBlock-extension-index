@@ -3,7 +3,7 @@
       "name":"MQTT",
       "description":"Connect things via MQTT",
       "github":"https://github.com/microBlock-IDE/MQTT-extension",
-      "author":"Sonthaya Nongnuch",
+      "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
    },
@@ -11,7 +11,15 @@
       "name":"WiFi",
       "description":"Connect to WiFi",
       "github":"https://github.com/microBlock-IDE/WiFi-extension",
-      "author":"Sonthaya Nongnuch",
+      "author":"microBlock",
+      "version":"1.0.0",
+      "image":"/static/display.png"
+   },
+   "neopixel_extension": {
+      "name":"NeoPixel",
+      "description":"Write light to NeoPixel",
+      "github":"https://github.com/microBlock-IDE/NeoPixel-extension",
+      "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
    }
