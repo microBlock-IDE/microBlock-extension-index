@@ -22,5 +22,13 @@
       "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
+   },
+   "blynk_extension": {
+      "name":"Blynk",
+      "description":"Blynk IoT platform: for businesses and developers",
+      "github":"https://github.com/microBlock-IDE/Blynk-extension",
+      "author":"microBlock",
+      "version":"1.0.0",
+      "image":"/static/display.png"
    }
 }
