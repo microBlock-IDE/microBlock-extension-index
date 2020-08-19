@@ -30,5 +30,13 @@
       "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
+   },
+   "http_extension": {
+      "name":"HTTP",
+      "description":"GET POST PUT PATCH DELETE and HEAD to any URL",
+      "github":"https://github.com/microBlock-IDE/HTTP-extension",
+      "author":"microBlock",
+      "version":"1.0.0",
+      "image":"/static/display.png"
    }
 }
