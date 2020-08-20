@@ -38,5 +38,13 @@
       "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
+   },
+   "linenotify_extension": {
+      "name":"LINE Notify",
+      "description":"Send notification from everywhere to LINE",
+      "github":"https://github.com/microBlock-IDE/LINENotify-extension",
+      "author":"microBlock",
+      "version":"1.0.0",
+      "image":"/static/display.png"
    }
 }
