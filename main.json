@@ -46,5 +46,13 @@
       "author":"microBlock",
       "version":"1.0.0",
       "image":"/static/display.png"
+   },
+   "buzzer_extension": {
+      "name":"Buzzer",
+      "description":"Make buzzer beep sound",
+      "github":"https://github.com/microBlock-IDE/Buzzer-extension",
+      "author":"microBlock",
+      "version":"1.0.0",
+      "image":"/static/display.png"
    }
 }
