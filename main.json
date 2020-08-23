@@ -1,58 +1,67 @@
 {
-   "mqtt_extension": {
-      "name":"MQTT",
-      "description":"Connect things via MQTT",
-      "github":"https://github.com/microBlock-IDE/MQTT-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "wifi_extension": {
-      "name":"WiFi",
-      "description":"Connect to WiFi",
-      "github":"https://github.com/microBlock-IDE/WiFi-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "neopixel_extension": {
-      "name":"NeoPixel",
-      "description":"Write light to NeoPixel",
-      "github":"https://github.com/microBlock-IDE/NeoPixel-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "blynk_extension": {
-      "name":"Blynk",
-      "description":"Blynk IoT platform: for businesses and developers",
-      "github":"https://github.com/microBlock-IDE/Blynk-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "http_extension": {
-      "name":"HTTP",
-      "description":"GET POST PUT PATCH DELETE and HEAD to any URL",
-      "github":"https://github.com/microBlock-IDE/HTTP-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "linenotify_extension": {
-      "name":"LINE Notify",
-      "description":"Send notification from everywhere to LINE",
-      "github":"https://github.com/microBlock-IDE/LINENotify-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   },
-   "buzzer_extension": {
-      "name":"Buzzer",
-      "description":"Make buzzer beep sound",
-      "github":"https://github.com/microBlock-IDE/Buzzer-extension",
-      "author":"microBlock",
-      "version":"1.0.0",
-      "image":"/static/display.png"
-   }
+  "mqtt_extension": {
+    "name": "MQTT",
+    "description": "Connect things via MQTT",
+    "github": "https://github.com/microBlock-IDE/MQTT-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "wifi_extension": {
+    "name": "WiFi",
+    "description": "Connect to WiFi",
+    "github": "https://github.com/microBlock-IDE/WiFi-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "neopixel_extension": {
+    "name": "NeoPixel",
+    "description": "Write light to NeoPixel",
+    "github": "https://github.com/microBlock-IDE/NeoPixel-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "blynk_extension": {
+    "name": "Blynk",
+    "description": "Blynk IoT platform: for businesses and developers",
+    "github": "https://github.com/microBlock-IDE/Blynk-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "http_extension": {
+    "name": "HTTP",
+    "description": "GET POST PUT PATCH DELETE and HEAD to any URL",
+    "github": "https://github.com/microBlock-IDE/HTTP-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "linenotify_extension": {
+    "name": "LINE Notify",
+    "description": "Send notification from everywhere to LINE",
+    "github": "https://github.com/microBlock-IDE/LINENotify-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "buzzer_extension": {
+    "name": "Buzzer",
+    "description": "Make buzzer beep sound",
+    "github": "https://github.com/microBlock-IDE/Buzzer-extension",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "image": "/static/display.png"
+  },
+  "microBlock-IDE_Buzzer-extension": {
+    "name": "Buzzer",
+    "description": "Make buzzer beep sound",
+    "author": "microBlock",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#F39C12",
+    "github": "https://github.com/microBlock-IDE/Buzzer-extension"
+  }
 }
