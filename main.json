@@ -18,5 +18,15 @@
     "icon": "/static/icon.png",
     "color": "#28B463",
     "github": "https://github.com/microBlock-IDE/LINENotify-extension"
+  },
+  "microBlock-IDE_Blynk-extension": {
+    "name": "Blynk",
+    "description": "Blynk IoT platform: for businesses and developers",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#1ABC9C",
+    "github": "https://github.com/microBlock-IDE/Blynk-extension"
   }
 }
