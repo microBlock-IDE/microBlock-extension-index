@@ -38,5 +38,15 @@
     "icon": "/static/icon.png",
     "color": "#F39C12",
     "github": "https://github.com/microBlock-IDE/MQTT-extension"
+  },
+  "microBlock-IDE_NeoPixel-extension": {
+    "name": "NeoPixel",
+    "description": "Write light to NeoPixel",
+    "author": "microBlock",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#27AE60",
+    "github": "https://github.com/microBlock-IDE/NeoPixel-extension"
   }
 }
