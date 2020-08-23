@@ -28,5 +28,15 @@
     "icon": "/static/icon.png",
     "color": "#1ABC9C",
     "github": "https://github.com/microBlock-IDE/Blynk-extension"
+  },
+  "microBlock-IDE_MQTT-extension": {
+    "name": "MQTT",
+    "description": "Connect things via MQTT",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#F39C12",
+    "github": "https://github.com/microBlock-IDE/MQTT-extension"
   }
 }
