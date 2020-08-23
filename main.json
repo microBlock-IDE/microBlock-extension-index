@@ -8,5 +8,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/microBlock-IDE/WiFi-extension"
+  },
+  "microBlock-IDE_LINENotify-extension": {
+    "name": "LINE Notify",
+    "description": "Send notification from everywhere to LINE",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#28B463",
+    "github": "https://github.com/microBlock-IDE/LINENotify-extension"
   }
 }
