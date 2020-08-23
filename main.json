@@ -58,5 +58,15 @@
     "icon": "/static/icon.png",
     "color": "#F39C12",
     "github": "https://github.com/microBlock-IDE/Buzzer-extension"
+  },
+  "microBlock-IDE_HTTP-extension": {
+    "name": "HTTP",
+    "description": "GET POST PUT to REST API",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2ECC71",
+    "github": "https://github.com/microBlock-IDE/HTTP-extension"
   }
 }
