@@ -78,5 +78,15 @@
     "icon": "/static/icon.png",
     "color": "#0271D9",
     "github": "https://github.com/microBlock-IDE/Servo-extension"
+  },
+  "microBlock-IDE_MPU6050-extension": {
+    "name": "MPU6050",
+    "description": "6-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "github": "https://github.com/microBlock-IDE/MPU6050-extension"
   }
 }
