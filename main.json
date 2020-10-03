@@ -118,5 +118,15 @@
     "icon": "/static/icon.png",
     "color": "#2C3E50",
     "github": "https://github.com/ioxhop/SDS011-extension"
+  },
+  "microBlock-IDE_Senses-extension": {
+    "name": "Senses IoT",
+    "description": "Industrial Internet of Things platform (IIoT)Laser PM2.5 Sensor",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/microBlock-IDE/Senses-extension"
   }
 }
