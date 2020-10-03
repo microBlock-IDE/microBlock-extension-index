@@ -108,5 +108,15 @@
     "icon": "/static/icon.png",
     "color": "#E67E22",
     "github": "https://github.com/ioxhop/PMS7003-extension"
+  },
+  "ioxhop_SDS011-extension": {
+    "name": "SDS011",
+    "description": "Laser PM2.5 Sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2C3E50",
+    "github": "https://github.com/ioxhop/SDS011-extension"
   }
 }
