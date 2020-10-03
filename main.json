@@ -98,5 +98,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/microBlock-IDE/TM1673-extension"
+  },
+  "ioxhop_PMS7003-extension": {
+    "name": "PMS7003",
+    "description": "Digital universal particle concentration sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E67E22",
+    "github": "https://github.com/ioxhop/PMS7003-extension"
   }
 }
