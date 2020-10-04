@@ -128,5 +128,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/microBlock-IDE/Senses-extension"
+  },
+  "microBlock-IDE_IFTTT-Webhooks-extension": {
+    "name": "IFTTT Webhooks",
+    "description": "allows you to integrate other services on IFTTT",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/microBlock-IDE/IFTTT-Webhooks-extension"
   }
 }
