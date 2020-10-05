@@ -138,5 +138,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/microBlock-IDE/IFTTT-Webhooks-extension"
+  },
+  "microBlock-IDE_Firebase-extension": {
+    "name": "Firebase Realtime Database",
+    "description": "Get Set and Push data to Firebase Realtime Database",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/microBlock-IDE/Firebase-extension"
   }
 }
