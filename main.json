@@ -146,7 +146,7 @@
     "category": "Communication",
     "version": "1.0.0",
     "icon": "/static/icon.png",
-    "color": "#3498DB",
+    "color": "#F1C40F",
     "github": "https://github.com/microBlock-IDE/Firebase-extension"
   }
 }
