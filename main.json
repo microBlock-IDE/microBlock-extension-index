@@ -158,5 +158,15 @@
     "icon": "/static/icon.png",
     "color": "#515A5A",
     "github": "https://github.com/microBlock-IDE/IR-Remote-extension"
+  },
+  "microBlock-IDE_Ultrasonic-extension": {
+    "name": "Ultrasonic",
+    "description": "Get distance from HC-SR04p",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/microBlock-IDE/Ultrasonic-extension"
   }
 }
