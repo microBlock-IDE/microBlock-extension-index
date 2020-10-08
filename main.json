@@ -178,5 +178,15 @@
     "icon": "/static/icon.png",
     "color": "#f45858",
     "github": "https://github.com/microBlock-IDE/HX711-extension"
+  },
+  "microBlock-IDE_OLED-extension": {
+    "name": "OLED",
+    "description": "Show text and image on OLED Display",
+    "author": "microBlock",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2980B9",
+    "github": "https://github.com/microBlock-IDE/OLED-extension"
   }
 }
