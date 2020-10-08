@@ -163,7 +163,7 @@
     "name": "Ultrasonic",
     "description": "Get distance from HC-SR04p",
     "author": "microBlock",
-    "category": "Communication",
+    "category": "Sensors",
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#004098",
