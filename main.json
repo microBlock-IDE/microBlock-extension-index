@@ -168,5 +168,15 @@
     "icon": "/static/icon.png",
     "color": "#004098",
     "github": "https://github.com/microBlock-IDE/Ultrasonic-extension"
+  },
+  "microBlock-IDE_HX711-extension": {
+    "name": "HX711",
+    "description": "Get weight value from Load Cell",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#f45858",
+    "github": "https://github.com/microBlock-IDE/HX711-extension"
   }
 }
