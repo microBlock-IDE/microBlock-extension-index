@@ -218,5 +218,15 @@
     "icon": "/static/icon.png",
     "color": "#8b507c",
     "github": "https://github.com/ioxhop/PAJ7620-extension"
+  },
+  "ioxhop_HMC5883-extension": {
+    "name": "HMC5883",
+    "description": "3-Axis Digital Compass",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/ioxhop/HMC5883-extension"
   }
 }
