@@ -208,5 +208,15 @@
     "icon": "/static/icon.png",
     "color": "#8b507c",
     "github": "https://github.com/ioxhop/SHT30-extension"
+  },
+  "ioxhop_PAJ7620-extension": {
+    "name": "PAJ7620",
+    "description": "Gesture Recognition",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#8b507c",
+    "github": "https://github.com/ioxhop/PAJ7620-extension"
   }
 }
