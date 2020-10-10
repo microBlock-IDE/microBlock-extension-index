@@ -228,5 +228,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/ioxhop/HMC5883-extension"
+  },
+  "ioxhop_DHT12-extension": {
+    "name": "DHT12",
+    "description": "Digital temperature and humidity sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/ioxhop/DHT12-extension"
   }
 }
