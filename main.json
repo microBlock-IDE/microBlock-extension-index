@@ -198,5 +198,15 @@
     "icon": "/static/icon.png",
     "color": "#006a99",
     "github": "https://github.com/microBlock-IDE/BH1750-extension"
+  },
+  "ioxhop_SHT30-extension": {
+    "name": "SHT30",
+    "description": "Humidity and Temperature Sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#006a99",
+    "github": "https://github.com/ioxhop/SHT30-extension"
   }
 }
