@@ -248,5 +248,15 @@
     "icon": "/static/icon.png",
     "color": "#672e58",
     "github": "https://github.com/ioxhop/BMP280-extension"
+  },
+  "microBlock-IDE_iKB-1-extension": {
+    "name": "iKB-1",
+    "description": "Universal I/O board",
+    "author": "microBlock",
+    "category": "Signal Input/Output",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#191e3e",
+    "github": "https://github.com/microBlock-IDE/iKB-1-extension"
   }
 }
