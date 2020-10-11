@@ -258,5 +258,15 @@
     "icon": "/static/icon.png",
     "color": "#191e3e",
     "github": "https://github.com/microBlock-IDE/iKB-1-extension"
+  },
+  "ioxhop_GPS-extension": {
+    "name": "GPS",
+    "description": "Get latitude longitude and speed from GPS module",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#5DADE2",
+    "github": "https://github.com/ioxhop/GPS-extension"
   }
 }
