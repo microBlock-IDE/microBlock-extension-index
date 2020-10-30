@@ -89,15 +89,15 @@
     "color": "#E74C3C",
     "github": "https://github.com/microBlock-IDE/MPU6050-extension"
   },
-  "microBlock-IDE_TM1673-extension": {
-    "name": "TM1673",
-    "description": "Show number on TM1673",
+  "microBlock-IDE_TM1637-extension": {
+    "name": "TM1637",
+    "description": "Show number on TM1637",
     "author": "IOXhop.com",
     "category": "Display",
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
-    "github": "https://github.com/microBlock-IDE/TM1673-extension"
+    "github": "https://github.com/microBlock-IDE/TM1637-extension"
   },
   "ioxhop_PMS7003-extension": {
     "name": "PMS7003",
