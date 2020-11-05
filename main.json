@@ -268,5 +268,15 @@
     "icon": "/static/icon.png",
     "color": "#5DADE2",
     "github": "https://github.com/ioxhop/GPS-extension"
+  },
+  "microBlock-IDE_HUSKYLENS-extension": {
+    "name": "HUSKYLENS",
+    "description": "An Easy-to-use AI Machine Vision Sensor",
+    "author": "INEX",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#17202A",
+    "github": "https://github.com/microBlock-IDE/HUSKYLENS-extension"
   }
 }
