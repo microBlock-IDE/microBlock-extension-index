@@ -278,5 +278,15 @@
     "icon": "/static/icon.png",
     "color": "#17202A",
     "github": "https://github.com/microBlock-IDE/HUSKYLENS-extension"
+  },
+  "ioxhop_SerialMP3-extension": {
+    "name": "Serial MP3",
+    "description": "Play MP3 with OpenSmart Serial MP3 Player",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "github": "https://github.com/ioxhop/SerialMP3-extension"
   }
 }
