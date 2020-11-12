@@ -264,7 +264,7 @@
     "description": "Get latitude longitude and speed from GPS module",
     "author": "IOXhop.com",
     "category": "Sensors",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#5DADE2",
     "github": "https://github.com/ioxhop/GPS-extension"
