@@ -288,5 +288,15 @@
     "icon": "/static/icon.png",
     "color": "#E74C3C",
     "github": "https://github.com/ioxhop/SerialMP3-extension"
+  },
+  "microBlock-IDE_ESP-NOW-extension": {
+    "name": "ESP-NOW",
+    "description": "Communication between KidBright32 via ESP-NOW",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "github": "https://github.com/microBlock-IDE/ESP-NOW-extension"
   }
 }
