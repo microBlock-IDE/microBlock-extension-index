@@ -308,5 +308,15 @@
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/microBlock-IDE/LCDI2C-extension"
+  },
+  "ioxhop_DotMatrix-extension": {
+    "name": "Dot Matrix",
+    "description": "Show text with animation to MAX7219 Dot Matrix",
+    "author": "IOXhop.com",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/ioxhop/DotMatrix-extension"
   }
 }
