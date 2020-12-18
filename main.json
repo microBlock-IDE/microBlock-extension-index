@@ -318,5 +318,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/ioxhop/DotMatrix-extension"
+  },
+  "ioxhop_Kid4Relay-extension": {
+    "name": "Kid4Relay",
+    "description": "Extension for Kid4Relay",
+    "author": "IOXhop.com",
+    "category": "Signal Input/Output",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#273746",
+    "github": "https://github.com/ioxhop/Kid4Relay-extension"
   }
 }
