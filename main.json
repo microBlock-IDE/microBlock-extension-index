@@ -328,5 +328,15 @@
     "icon": "/static/icon.png",
     "color": "#273746",
     "github": "https://github.com/ioxhop/Kid4Relay-extension"
+  },
+  "ioxhop_KidMotorV3-extension": {
+    "name": "KidMotorV3",
+    "description": "Extension for KidMotor V3",
+    "author": "IOXhop.com",
+    "category": "Signal Input/Output",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#27AE60",
+    "github": "https://github.com/ioxhop/KidMotorV3-extension"
   }
 }
