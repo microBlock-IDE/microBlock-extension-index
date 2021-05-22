@@ -358,5 +358,15 @@
     "icon": "/static/icon.png",
     "color": "#0271D9",
     "github": "https://github.com/kritsadaj/Servo-extension"
+  },
+  "artronshop_EasyDim-extension": {
+    "name": "EasyDim",
+    "description": "Dimmer light on lamp",
+    "author": "ArtronShop",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2ECC71",
+    "github": "https://github.com/artronshop/EasyDim-extension"
   }
 }
