@@ -349,16 +349,6 @@
     "color": "#27AE60",
     "github": "https://github.com/microBlock-IDE/ZX-THERMO-extension"
   },
-  "kritsadaj_Servo-extension": {
-    "name": "Servo",
-    "description": "Set angle to Servo motor",
-    "author": "microBlock",
-    "category": "Device Control",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#0271D9",
-    "github": "https://github.com/kritsadaj/Servo-extension"
-  },
   "artronshop_EasyDim-extension": {
     "name": "EasyDim",
     "description": "Dimmer light on lamp",
