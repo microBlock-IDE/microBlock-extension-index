@@ -358,5 +358,15 @@
     "icon": "/static/icon.png",
     "color": "#2ECC71",
     "github": "https://github.com/artronshop/EasyDim-extension"
+  },
+  "maxpromer_AHT20-extension": {
+    "name": "AHT20",
+    "description": "Temperature and Humidity Sensor",
+    "author": "INEX",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#8b507c",
+    "github": "https://github.com/maxpromer/AHT20-extension"
   }
 }
