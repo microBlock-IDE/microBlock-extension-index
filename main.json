@@ -366,7 +366,7 @@
     "category": "Sensors",
     "version": "1.0.0",
     "icon": "/static/icon.png",
-    "color": "#8b507c",
+    "color": "#3498DB",
     "github": "https://github.com/maxpromer/AHT20-extension"
   }
 }
