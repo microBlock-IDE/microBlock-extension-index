@@ -368,5 +368,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/maxpromer/AHT20-extension"
+  },
+  "maxpromer_iRELAY-5-extension": {
+    "name": "iRELAY-5",
+    "description": "Extension for iRELAY-5",
+    "author": "INEX",
+    "category": "Signal Input/Output",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2ECC71",
+    "github": "https://github.com/maxpromer/iRELAY-5-extension"
   }
 }
