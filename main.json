@@ -378,5 +378,15 @@
     "icon": "/static/icon.png",
     "color": "#2ECC71",
     "github": "https://github.com/maxpromer/iRELAY-5-extension"
+  },
+  "AJtrakan_DS18x20-extension": {
+    "name": "DS18x20",
+    "description": "DS18x20 temperature sensor",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/AJtrakan/DS18x20-extension"
   }
 }
