@@ -403,7 +403,7 @@
     "name": "Missing Math Operator",
     "description": "Missing Math Value",
     "author": "javanesse.net",
-    "category": "Data Storage",
+    "category": "Data Processing",
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#F39C12",
