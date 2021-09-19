@@ -388,5 +388,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/AJtrakan/DS18x20-extension"
+  },
+  "javanesse_Ultrasonic-extension": {
+    "name": "Ultrasonic",
+    "description": "Attach your HC-SR04 to custom Pin",
+    "author": "javanesse.net",
+    "category": "Sensors",
+    "version": "1.0.1",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/javanesse/Ultrasonic-extension"
   }
 }
