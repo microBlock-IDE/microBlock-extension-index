@@ -390,7 +390,7 @@
     "github": "https://github.com/AJtrakan/DS18x20-extension"
   },
   "javanesse_Ultrasonic-extension": {
-    "name": "Ultrasonic",
+    "name": "Ultrasonic Custom Pin",
     "description": "Attach your HC-SR04 to custom Pin",
     "author": "javanesse.net",
     "category": "Sensors",
