@@ -398,5 +398,15 @@
     "icon": "/static/icon.png",
     "color": "#004098",
     "github": "https://github.com/javanesse/Ultrasonic-extension"
+  },
+  "javanesse_microBlock-Math-Operator": {
+    "name": "Missing Math Operator",
+    "description": "Missing Math Value",
+    "author": "javanesse.net",
+    "category": "Data Storage",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#F39C12",
+    "github": "https://github.com/javanesse/microBlock-Math-Operator"
   }
 }
