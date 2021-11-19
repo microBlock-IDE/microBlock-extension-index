@@ -76,6 +76,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#2ECC71",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/HTTP-extension"
   },
   "microBlock-IDE_Servo-extension": {
