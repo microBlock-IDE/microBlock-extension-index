@@ -20,6 +20,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#28B463",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/LINENotify-extension"
   },
   "microBlock-IDE_Blynk-extension": {
