@@ -40,6 +40,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#F39C12",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/MQTT-extension"
   },
   "microBlock-IDE_NeoPixel-extension": {
