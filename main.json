@@ -30,6 +30,9 @@
     "version": "1.0.1",
     "icon": "/static/icon.png",
     "color": "#1ABC9C",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/Blynk-extension"
   },
   "microBlock-IDE_MQTT-extension": {
