@@ -7,6 +7,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/WiFi-extension"
   },
   "microBlock-IDE_LINENotify-extension": {
