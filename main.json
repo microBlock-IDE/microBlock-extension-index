@@ -162,6 +162,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#F1C40F",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/Firebase-extension"
   },
   "microBlock-IDE_IR-Remote-extension": {
