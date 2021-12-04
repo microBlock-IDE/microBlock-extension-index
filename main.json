@@ -59,6 +59,9 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#27AE60",
+    "chip": [
+      "ESP32"
+    ],
     "github": "https://github.com/microBlock-IDE/NeoPixel-extension"
   },
   "microBlock-IDE_Buzzer-extension": {
