@@ -455,9 +455,9 @@
   "iPAS_Blynk-extension": {
     "name": "Blynk IoT",
     "description": "Blynk IoT platform: for businesses and developers",
-    "author": "microBlock",
+    "author": "microBlock & iPAS",
     "category": "Communication",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "/static/icon.png",
     "color": "#1ABC9C",
     "chip": [
