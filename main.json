@@ -453,9 +453,9 @@
     "github": "https://github.com/microBlock-IDE/NeoPixelRP2-extension"
   },
   "iPAS_Blynk-extension": {
-    "name": "Blynk IoT",
+    "name": "Blynk-IoT",
     "description": "Blynk IoT platform: for businesses and developers",
-    "author": "microBlock & iPAS",
+    "author": "microBlock",
     "category": "Communication",
     "version": "1.0.2",
     "icon": "/static/icon.png",
