@@ -497,5 +497,15 @@
       "ESP32"
     ],
     "github": "https://github.com/maxpromer/iBIT-extension"
+  },
+  "maxpromer_ZX-RFID-extension": {
+    "name": "ZX-RFID",
+    "description": "RFID reader Mifare 13.56MHz I2C interface",
+    "author": "INEX",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/maxpromer/ZX-RFID-extension"
   }
 }
