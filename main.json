@@ -517,5 +517,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/maxpromer/iSERVO-extension"
+  },
+  "maxpromer_iLED4-extension": {
+    "name": "iLED4",
+    "description": "4-digit LED display I2C interface",
+    "author": "INEX",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/maxpromer/iLED4-extension"
   }
 }
