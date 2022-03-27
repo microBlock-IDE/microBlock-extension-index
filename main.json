@@ -507,5 +507,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/maxpromer/ZX-RFID-extension"
+  },
+  "maxpromer_iSERVO-extension": {
+    "name": "iSERVO",
+    "description": "iSERVO-16 Servo motor driver boards",
+    "author": "INEX",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/maxpromer/iSERVO-extension"
   }
 }
