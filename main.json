@@ -547,5 +547,15 @@
     "icon": "/static/icon.png",
     "color": "#16b5aa",
     "github": "https://github.com/microBlock-extension-by-thanatip-cg/EMG-AD8211-extension"
+  },
+  "microBlock-extension-by-thanatip-cg_ECG-AD8232-extension": {
+    "name": "ECG-AD8232",
+    "description": "ADB8232 ECG Sensors",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/microBlock-extension-by-thanatip-cg/ECG-AD8232-extension"
   }
 }
