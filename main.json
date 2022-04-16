@@ -557,5 +557,15 @@
     "icon": "/static/icon.png",
     "color": "#004098",
     "github": "https://github.com/microBlock-extension-by-thanatip-cg/ECG-AD8232-extension"
+  },
+  "microBlock-extension-by-thanatip-cg_pluse-heartrate-extension": {
+    "name": "Pluse HeartRate",
+    "description": "Pulse Sensor or heart-rate sensor",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/microBlock-extension-by-thanatip-cg/pluse-heartrate-extension"
   }
 }
