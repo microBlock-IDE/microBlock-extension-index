@@ -539,13 +539,13 @@
     "github": "https://github.com/ArtronShop/KidMotorV4-extension"
   },
   "microBlock-extension-by-thanatip-cg_EMG-AD8211-extension": {
-    "name": "EMG Sensors",
+    "name": "EMG-AD8211",
     "description": "SG00165 EMG Sensors",
     "author": "AJ.TAY",
     "category": "Sensors",
     "version": "1.0.0",
     "icon": "/static/icon.png",
-    "color": "#0f3058",
+    "color": "#16b5aa",
     "github": "https://github.com/microBlock-extension-by-thanatip-cg/EMG-AD8211-extension"
   }
 }
