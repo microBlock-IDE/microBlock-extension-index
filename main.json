@@ -567,5 +567,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/microBlock-extension-by-thanatip-cg/pluse-heartrate-extension"
+  },
+  "microBlock-IDE_Airri-extension": {
+    "name": "Airri",
+    "description": "Send air quality value to Airri",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "github": "https://github.com/microBlock-IDE/Airri-extension"
   }
 }
