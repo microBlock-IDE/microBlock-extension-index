@@ -577,5 +577,15 @@
     "icon": "/static/icon.png",
     "color": "#E74C3C",
     "github": "https://github.com/microBlock-IDE/Airri-extension"
+  },
+  "microBlock-IDE_GoGo-Bright-extension": {
+    "name": "GoGo Bright",
+    "description": "Go more with GoGo Bright",
+    "author": "microBlock",
+    "category": "Signal Input/Output",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#db3f8d",
+    "github": "https://github.com/microBlock-IDE/GoGo-Bright-extension"
   }
 }
