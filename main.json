@@ -587,15 +587,5 @@
     "icon": "/static/icon.png",
     "color": "#db3f8d",
     "github": "https://github.com/microBlock-IDE/GoGo-Bright-extension"
-  },
-  "kritsadaj_iKB-1-EXT-for-MicroBlock": {
-    "name": "iKB-1",
-    "description": "Universal I/O board",
-    "author": "microBlock",
-    "category": "Signal Input/Output",
-    "version": "1.0.1",
-    "icon": "/static/icon.png",
-    "color": "#191e3e",
-    "github": "https://github.com/kritsadaj/iKB-1-EXT-for-MicroBlock"
   }
 }
