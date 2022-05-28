@@ -594,7 +594,7 @@
     "author": "WIJITTAKRON",
     "category": "Sensors",
     "version": "1.0.1",
-    "icon": "https://raw.githubusercontent.com/wijittakron20-tls/RFID-extension/main/static/icon.png",
+    "icon": "./static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/wijittakron20-tls/RFID-extension"
   }
