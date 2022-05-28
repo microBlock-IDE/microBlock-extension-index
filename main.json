@@ -590,10 +590,10 @@
   },
   "wijittakron20-tls_RFID-extension": {
     "name": "RFID",
-    "description": "RFID reader 13.56MHz (MFRC522) SPI; SET Pin => SDA=SDA1, SCK=SLC1, MOSI=Pin18, MISO=Pin19",
+    "description": "RFID reader 13.56MHz (MFRC522) SPI",
     "author": "WIJITTAKRON",
     "category": "Sensors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/wijittakron20-tls/RFID-extension"
