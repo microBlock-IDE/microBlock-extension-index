@@ -593,7 +593,7 @@
     "description": "RFID reader 13.56MHz (MFRC522) SPI",
     "author": "WIJITTAKRON",
     "category": "Sensors",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "./static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/wijittakron20-tls/RFID-extension"
