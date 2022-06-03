@@ -572,10 +572,10 @@
     "name": "Airri",
     "description": "Send air quality value to Airri",
     "author": "microBlock",
-    "category": "Sensors",
-    "version": "1.0.0",
+    "category": "Communication",
+    "version": "1.0.1",
     "icon": "/static/icon.png",
-    "color": "#E74C3C",
+    "color": "#2ecc71",
     "github": "https://github.com/microBlock-IDE/Airri-extension"
   },
   "microBlock-IDE_GoGo-Bright-extension": {
