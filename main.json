@@ -266,16 +266,6 @@
     "color": "#3498DB",
     "github": "https://github.com/ioxhop/DHT12-extension"
   },
-  "ioxhop_BMP280-extension": {
-    "name": "BMP280",
-    "description": "Pressure sensor",
-    "author": "IOXhop.com",
-    "category": "Sensors",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#672e58",
-    "github": "https://github.com/ioxhop/BMP280-extension"
-  },
   "microBlock-IDE_iKB-1-extension": {
     "name": "iKB-1",
     "description": "Universal I/O board",
