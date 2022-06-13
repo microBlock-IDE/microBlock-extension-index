@@ -589,7 +589,7 @@
     "github": "https://github.com/wijittakron20-tls/RFID-extension"
   },
   "Pramotjonsungnoen_Servo": {
-    "name": "Servo",
+    "name": "Servo-oil",
     "description": "Set angle to Servo motor",
     "author": "microBlock",
     "category": "Device Control",
