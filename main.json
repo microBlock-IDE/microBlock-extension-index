@@ -617,5 +617,15 @@
     "icon": "/static/icon.png",
     "color": "#8b507c",
     "github": "https://github.com/Anutas/SHT30-extension"
+  },
+  "Anutas_Temp-extension": {
+    "name": "SHT30",
+    "description": "Humidity and Temperature Sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#8b507c",
+    "github": "https://github.com/Anutas/Temp-extension"
   }
 }
