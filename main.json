@@ -597,5 +597,15 @@
     "icon": "/static/icon.png",
     "color": "#0271D9",
     "github": "https://github.com/Pramotjonsungnoen/Servo"
+  },
+  "Pramotjonsungnoen_zx_sonar-extension": {
+    "name": "sonar",
+    "description": "Get distance from HC-SR04p",
+    "author": "pramot",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/Pramotjonsungnoen/zx_sonar-extension"
   }
 }
