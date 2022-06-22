@@ -629,9 +629,9 @@
     "github": "https://github.com/Anutas/Temp-extension"
   },
   "Aphibun_distance-extension": {
-    "name": "ZX-THERMO",
-    "description": "Non-Contact Temperature Sensor",
-    "author": "INEX",
+    "name": "DISTANCE",
+    "description": "distance Sensor",
+    "author": "Aphibun",
     "category": "Sensors",
     "version": "1.0.0",
     "icon": "/static/icon.png",
