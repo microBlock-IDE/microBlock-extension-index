@@ -600,11 +600,11 @@
   },
   "Pramotjonsungnoen_zx_sonar-extension": {
     "name": "sonar",
-    "description": "Get distance from HC-SR04p",
-    "author": "pramot",
+    "description": "Get distance from ZX-sonar",
+    "author": "mazlogyzop",
     "category": "Sensors",
     "version": "1.0.1",
-    "icon": "/static/sonaricon.png",
+    "icon": "/static/sonar.png",
     "color": "#004098",
     "github": "https://github.com/Pramotjonsungnoen/zx_sonar-extension"
   },
