@@ -630,7 +630,7 @@
   },
   "Aphibun_distance-extension": {
     "name": "DISTANCE",
-    "description": "Distance Sensor",
+    "description": "ZX-Distance Sensor",
     "author": "Aphibun",
     "category": "Sensors",
     "version": "1.0.0",
