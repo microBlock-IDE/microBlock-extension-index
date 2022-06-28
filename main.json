@@ -637,5 +637,15 @@
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/Aphibun/distance-extension"
+  },
+  "Pramotjonsungnoen_input": {
+    "name": "analog electronics",
+    "description": "Get  distance from  ZX-sonar",
+    "author": "mazlogyzop",
+    "category": "Sensors",
+    "version": "1.0.1",
+    "icon": "/static/sonar.png",
+    "color": "#004098",
+    "github": "https://github.com/Pramotjonsungnoen/input"
   }
 }
