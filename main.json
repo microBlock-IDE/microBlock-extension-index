@@ -647,5 +647,15 @@
     "icon": "/static/sonar.png",
     "color": "#004098",
     "github": "https://github.com/Pramotjonsungnoen/input"
+  },
+  "Pramotjonsungnoen_Sensing": {
+    "name": "analog electronics",
+    "description": "Get  distance from  analog-read",
+    "author": "mazlogyzop",
+    "category": "Sensors",
+    "version": "1.0.1",
+    "icon": "/static/analog.png",
+    "color": "#004098",
+    "github": "https://github.com/Pramotjonsungnoen/Sensing"
   }
 }
