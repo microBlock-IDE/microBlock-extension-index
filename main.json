@@ -649,8 +649,8 @@
     "github": "https://github.com/Pramotjonsungnoen/input"
   },
   "Pramotjonsungnoen_Sensing": {
-    "name": "analog electronics",
-    "description": "Get  distance from  analog-read",
+    "name": "sensing map",
+    "description": "Get  distance from  sensing",
     "author": "mazlogyzop",
     "category": "Sensors",
     "version": "1.0.1",
