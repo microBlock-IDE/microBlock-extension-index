@@ -657,5 +657,15 @@
     "icon": "/static/analog.png",
     "color": "#004098",
     "github": "https://github.com/Pramotjonsungnoen/Sensing"
+  },
+  "Anutas_distance-extension-master": {
+    "name": "DISTANCE",
+    "description": "ZX-Distance Sensor",
+    "author": "Aphibun",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#27AE60",
+    "github": "https://github.com/Anutas/distance-extension-master"
   }
 }
