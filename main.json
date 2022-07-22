@@ -588,16 +588,6 @@
     "color": "#3498DB",
     "github": "https://github.com/wijittakron20-tls/RFID-extension"
   },
-  "Pramotjonsungnoen_Servo": {
-    "name": "Servo-oil",
-    "description": "Set angle to Servo motor",
-    "author": "microBlock",
-    "category": "Device Control",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#0271D9",
-    "github": "https://github.com/Pramotjonsungnoen/Servo"
-  },
   "Pramotjonsungnoen_zx_sonar-extension": {
     "name": "sonar",
     "description": "Get distance from ZX-sonar",
