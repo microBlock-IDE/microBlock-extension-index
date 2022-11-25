@@ -139,10 +139,10 @@
   },
   "microBlock-IDE_Senses-extension": {
     "name": "Senses IoT",
-    "description": "Industrial Internet of Things platform (IIoT)Laser PM2.5 Sensor",
+    "description": "Industrial Internet of Things platform (IIoT)",
     "author": "microBlock",
     "category": "Communication",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "chip": [
