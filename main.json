@@ -147,11 +147,12 @@
     "description": "Industrial Internet of Things platform (IIoT)",
     "author": "microBlock",
     "category": "Communication",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "chip": [
-      "ESP32"
+      "ESP32",
+      "RP2-WiFi"
     ],
     "github": "https://github.com/microBlock-IDE/Senses-extension"
   },
