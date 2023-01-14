@@ -82,11 +82,12 @@
     "description": "GET POST PUT to REST API",
     "author": "microBlock",
     "category": "Communication",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#2ECC71",
     "chip": [
-      "ESP32"
+      "ESP32",
+      "RP2-WiFi"
     ],
     "github": "https://github.com/microBlock-IDE/HTTP-extension"
   },
