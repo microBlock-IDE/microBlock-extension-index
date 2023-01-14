@@ -18,11 +18,12 @@
     "description": "Send notification from everywhere to LINE",
     "author": "microBlock",
     "category": "Communication",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#28B463",
     "chip": [
-      "ESP32"
+      "ESP32",
+      "RP2-WiFi"
     ],
     "github": "https://github.com/microBlock-IDE/LINENotify-extension"
   },
