@@ -645,5 +645,15 @@
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/Anutas/distance-extension-master"
+  },
+  "ArtronShop_Ultrasonic-KidMotor-extension": {
+    "name": "Ultrasonic-KidMotor",
+    "description": "Get distance from HC-SR04p (only KidMotor board)",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/ArtronShop/Ultrasonic-KidMotor-extension"
   }
 }
