@@ -675,5 +675,15 @@
     "icon": "/static/joystick.png",
     "color": "#F39C12",
     "github": "https://github.com/ESPGyro/WebSocketController-2e"
+  },
+  "ESPGyro_UDP-Server-extension-1": {
+    "name": "UDP伺服器",
+    "description": "",
+    "author": "YP",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#F39C12",
+    "github": "https://github.com/ESPGyro/UDP-Server-extension-1"
   }
 }
