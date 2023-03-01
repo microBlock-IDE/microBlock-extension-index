@@ -665,5 +665,15 @@
     "icon": "/static/uln2003.png",
     "color": "#0271D9",
     "github": "https://github.com/ESPGyro/ULN2003-extension"
+  },
+  "ESPGyro_WebSocketController-2e": {
+    "name": "網頁遙控器",
+    "description": "WebSocket_Server",
+    "author": "YP & Mason",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/joystick.png",
+    "color": "#F39C12",
+    "github": "https://github.com/ESPGyro/WebSocketController-2e"
   }
 }
