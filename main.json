@@ -655,5 +655,15 @@
     "icon": "/static/icon.png",
     "color": "#004098",
     "github": "https://github.com/ArtronShop/Ultrasonic-KidMotor-extension"
+  },
+  "ESPGyro_ULN2003-extension": {
+    "name": "步進馬達",
+    "description": "Set angle to stepper motor",
+    "author": "Mason",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/uln2003.png",
+    "color": "#0271D9",
+    "github": "https://github.com/ESPGyro/ULN2003-extension"
   }
 }
