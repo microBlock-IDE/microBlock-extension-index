@@ -685,5 +685,18 @@
     "icon": "/static/icon.png",
     "color": "#F39C12",
     "github": "https://github.com/ESPGyro/UDP-Server-extension-1"
+  },
+  "maxpromer_PuppyPID-extension": {
+    "name": "PuppyPID",
+    "description": "PID line following for PuppyBot",
+    "author": "PrinceBot",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#28B463",
+    "chip": [
+      "RP2"
+    ],
+    "github": "https://github.com/maxpromer/PuppyPID-extension"
   }
 }
