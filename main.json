@@ -698,5 +698,15 @@
       "RP2"
     ],
     "github": "https://github.com/maxpromer/PuppyPID-extension"
+  },
+  "sensorthai_bettlecarV1": {
+    "name": "Servo",
+    "description": "Set angle to Servo motor",
+    "author": "microBlock",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0271D9",
+    "github": "https://github.com/sensorthai/bettlecarV1"
   }
 }
