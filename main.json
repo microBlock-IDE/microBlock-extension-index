@@ -710,11 +710,11 @@
     "github": "https://github.com/sensorthai/bettlecarV1"
   },
   "chavee_microBlock-NETPIE-Microgear-extension": {
-    "name": "NETPIE Microsear",
+    "name": "NETPIE Microgear",
     "description": "Connect your device to NETPIE IoT platform",
     "author": "Chavee Issariyapat",
     "category": "Communication",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "/static/icon.png",
     "color": "#4A7CCC",
     "chip": [
