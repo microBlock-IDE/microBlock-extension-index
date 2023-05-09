@@ -586,16 +586,6 @@
     "color": "#db3f8d",
     "github": "https://github.com/microBlock-IDE/GoGo-Bright-extension"
   },
-  "wijittakron20-tls_RFID-extension": {
-    "name": "RFID",
-    "description": "RFID reader 13.56MHz (MFRC522) SPI",
-    "author": "WIJITTAKRON",
-    "category": "Sensors",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#3498DB",
-    "github": "https://github.com/wijittakron20-tls/RFID-extension"
-  },
   "Pramotjonsungnoen_zx_sonar-extension": {
     "name": "sonar",
     "description": "Get distance from ZX-sonar",
