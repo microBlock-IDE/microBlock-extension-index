@@ -709,21 +709,7 @@
     "color": "#0271D9",
     "github": "https://github.com/sensorthai/bettlecarV1"
   },
-  "chavee_microBlock-NETPIE-Microgear-extension": {
-    "name": "NETPIE Microgear",
-    "description": "Connect your device to NETPIE IoT platform",
-    "author": "Chavee Issariyapat",
-    "category": "Communication",
-    "version": "1.0.1",
-    "icon": "/static/icon.png",
-    "color": "#4A7CCC",
-    "chip": [
-      "ESP32",
-      "RP2-WiFi"
-    ],
-    "github": "https://github.com/chavee/microBlock-NETPIE-Microgear-extension"
-  },
-  "chavee_microBlock-NETPIE-extension": {
+ "chavee_microBlock-NETPIE-extension": {
     "name": "NETPIE",
     "description": "Connect your device to NETPIE IoT platform",
     "author": "Chavee Issariyapat",
