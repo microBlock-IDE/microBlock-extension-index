@@ -279,7 +279,7 @@
     "description": "Universal I/O board",
     "author": "microBlock",
     "category": "Signal Input/Output",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#191e3e",
     "github": "https://github.com/microBlock-IDE/iKB-1-extension"
@@ -699,7 +699,7 @@
     "color": "#0271D9",
     "github": "https://github.com/sensorthai/bettlecarV1"
   },
- "chavee_microBlock-NETPIE-extension": {
+  "chavee_microBlock-NETPIE-extension": {
     "name": "NETPIE",
     "description": "Connect your device to NETPIE IoT platform",
     "author": "Chavee Issariyapat",
