@@ -690,9 +690,9 @@
     "github": "https://github.com/maxpromer/PuppyPID-extension"
   },
   "sensorthai_bettlecarV1": {
-    "name": "BettleV1",
-    "description": "Set angle to Servo motor",
-    "author": "upskill",
+    "name": "Bettle Car V1",
+    "description": "Block for Bettle Car",
+    "author": "up-skill.asia",
     "category": "Device Control",
     "version": "1.0.0",
     "icon": "/static/icon.png",
