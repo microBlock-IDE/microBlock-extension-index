@@ -726,5 +726,15 @@
       "RP2-WiFi"
     ],
     "github": "https://github.com/sensorthai/microBlock-NETPIE"
+  },
+  "AlongkornKaosaard_SHT31_extension": {
+    "name": "Thingsboard",
+    "description": "Digital universal particle concentration sensor",
+    "author": "1EN",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E67E22",
+    "github": "https://github.com/AlongkornKaosaard/SHT31_extension"
   }
 }
