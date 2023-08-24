@@ -748,7 +748,7 @@
     "github": "https://github.com/AlongkornKaosaard/thingsboard_extension"
   },
   "AlongkornKaosaard_thingsboard": {
-    "name": "Thingsboard",
+    "name": "Thingsboard2",
     "description": "Connect to Thingsboard Mqtt",
     "author": "1EN",
     "category": "Communication",
