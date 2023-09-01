@@ -704,7 +704,7 @@
     "description": "Connect your device to NETPIE IoT platform",
     "author": "Chavee Issariyapat",
     "category": "Communication",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "/static/icon.png",
     "color": "#4A7CCC",
     "chip": [
@@ -712,20 +712,6 @@
       "RP2-WiFi"
     ],
     "github": "https://github.com/chavee/microBlock-NETPIE-extension"
-  },
-  "sensorthai_microBlock-NETPIE": {
-    "name": "NETPIE",
-    "description": "Connect your device to NETPIE IoT platform",
-    "author": "Chavee Issariyapat",
-    "category": "Communication",
-    "version": "1.0.3",
-    "icon": "/static/icon.png",
-    "color": "#4A7CCC",
-    "chip": [
-      "ESP32",
-      "RP2-WiFi"
-    ],
-    "github": "https://github.com/sensorthai/microBlock-NETPIE"
   },
   "AlongkornKaosaard_SHT31_extension": {
     "name": "Thingsboard",
@@ -766,19 +752,5 @@
     "icon": "/static/icon.png",
     "color": "#E67E22",
     "github": "https://github.com/AlongkornKaosaard/thingsboard2"
-  },
-  "netpiemaker_microBlock-NETPIE-extension": {
-    "name": "NETPIE",
-    "description": "Connect your device to NETPIE IoT platform",
-    "author": "Chavee Issariyapat",
-    "category": "Communication",
-    "version": "1.0.4",
-    "icon": "/static/icon.png",
-    "color": "#4A7CCC",
-    "chip": [
-      "ESP32",
-      "RP2-WiFi"
-    ],
-    "github": "https://github.com/netpiemaker/microBlock-NETPIE-extension"
   }
 }
