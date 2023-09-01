@@ -752,5 +752,18 @@
     "icon": "/static/icon.png",
     "color": "#E67E22",
     "github": "https://github.com/AlongkornKaosaard/thingsboard2"
+  },
+  "flukhomkrit_Puppytest-extension": {
+    "name": "PuppyPID",
+    "description": "PID line following for PuppyBot",
+    "author": "PrinceBot",
+    "category": "Sensors",
+    "version": "1.0.1",
+    "icon": "/static/icon.png",
+    "color": "#28B463",
+    "chip": [
+      "RP2"
+    ],
+    "github": "https://github.com/flukhomkrit/Puppytest-extension"
   }
 }
