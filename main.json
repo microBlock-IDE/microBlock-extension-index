@@ -754,7 +754,7 @@
     "github": "https://github.com/AlongkornKaosaard/thingsboard2"
   },
   "flukhomkrit_Puppytest-extension": {
-    "name": "PuppyPID",
+    "name": "PuppyPIDtest",
     "description": "PID line following for PuppyBot",
     "author": "PrinceBot",
     "category": "Sensors",
