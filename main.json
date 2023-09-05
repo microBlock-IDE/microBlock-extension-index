@@ -775,5 +775,15 @@
     "icon": "/static/beetlecar.png",
     "color": "#4A7CCC",
     "github": "https://github.com/Thanaphon06/beetlecarV1"
+  },
+  "sensorthai_microBlock-NETPIE": {
+    "name": "Beetlecar",
+    "description": "",
+    "author": "UP-SKILL",
+    "category": "",
+    "version": "1.0.0",
+    "icon": "/static/beetlecar.png",
+    "color": "#4A7CCC",
+    "github": "https://github.com/sensorthai/microBlock-NETPIE"
   }
 }
