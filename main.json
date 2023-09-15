@@ -785,5 +785,15 @@
     "icon": "/static/beetlecar.png",
     "color": "#4A7CCC",
     "github": "https://github.com/sensorthai/microBlock-NETPIE"
+  },
+  "KJEducator_HMC5883-extension": {
+    "name": "HMC5883",
+    "description": "3-Axis Digital Compass",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/KJEducator/HMC5883-extension"
   }
 }
