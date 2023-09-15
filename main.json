@@ -797,9 +797,9 @@
     "github": "https://github.com/KJEducator/HMC5883-extension"
   },
   "KJEducator_DB5883-extension": {
-    "name": "HMC5883",
+    "name": "DB5883",
     "description": "3-Axis Digital Compass",
-    "author": "IOXhop.com",
+    "author": "K",
     "category": "Sensors",
     "version": "1.0.0",
     "icon": "/static/icon.png",
