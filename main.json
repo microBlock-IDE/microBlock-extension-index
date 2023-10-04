@@ -817,12 +817,12 @@
     "github": "https://github.com/Thanaphon06/WarpIoT"
   },
   "Thanaphon06_wrapiot": {
-    "name": "WarpIoT",
+    "name": "WarpIOT",
     "description": "Block For Warp IoT",
     "author": "UP-SKILL",
     "category": "",
     "version": "1.0.0",
-    "icon": "/static/beetlecar.png",
+    "icon": "/static/iot.png",
     "color": "#4A7CCC",
     "github": "https://github.com/Thanaphon06/wrapiot"
   }
