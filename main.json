@@ -805,5 +805,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/KJEducator/DB5883-extension"
+  },
+  "Thanaphon06_WarpIoT": {
+    "name": "WarpIOT",
+    "description": "Block For Warp IoT",
+    "author": "UP-SKILL",
+    "category": "",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E67E22",
+    "github": "https://github.com/Thanaphon06/WarpIoT"
   }
 }
