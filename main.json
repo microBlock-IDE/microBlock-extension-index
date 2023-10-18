@@ -713,59 +713,6 @@
     ],
     "github": "https://github.com/chavee/microBlock-NETPIE-extension"
   },
-  "AlongkornKaosaard_SHT31_extension": {
-    "name": "Thingsboard",
-    "description": "Digital universal particle concentration sensor",
-    "author": "1EN",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E67E22",
-    "github": "https://github.com/AlongkornKaosaard/SHT31_extension"
-  },
-  "AlongkornKaosaard_thingsboard_extension": {
-    "name": "Thingsboard",
-    "description": "Digital universal particle concentration sensor",
-    "author": "1EN",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E67E22",
-    "github": "https://github.com/AlongkornKaosaard/thingsboard_extension"
-  },
-  "AlongkornKaosaard_thingsboard": {
-    "name": "Thingsboard",
-    "description": "Connect to Thingsboard Mqtt",
-    "author": "1EN",
-    "category": "Communication",
-    "version": "1.0.2",
-    "icon": "/static/icon.png",
-    "color": "#E67E22",
-    "github": "https://github.com/AlongkornKaosaard/thingsboard"
-  },
-  "AlongkornKaosaard_thingsboard2": {
-    "name": "Thingsboard",
-    "description": "Connect to Thingsboard Mqtt",
-    "author": "1EN",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E67E22",
-    "github": "https://github.com/AlongkornKaosaard/thingsboard2"
-  },
-  "flukhomkrit_Puppytest-extension": {
-    "name": "PuppyPIDtest",
-    "description": "PID line following for PuppyBot",
-    "author": "PrinceBot",
-    "category": "Sensors",
-    "version": "1.0.3",
-    "icon": "/static/icon.png",
-    "color": "#28B463",
-    "chip": [
-      "RP2"
-    ],
-    "github": "https://github.com/flukhomkrit/Puppytest-extension"
-  },
   "Thanaphon06_beetlecarV1": {
     "name": "Beetlecar",
     "description": "",
@@ -786,16 +733,6 @@
     "color": "#4A7CCC",
     "github": "https://github.com/sensorthai/microBlock-NETPIE"
   },
-  "KJEducator_HMC5883-extension": {
-    "name": "HMC5883",
-    "description": "3-Axis Digital Compass",
-    "author": "IOXhop.com",
-    "category": "Sensors",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#0f3058",
-    "github": "https://github.com/KJEducator/HMC5883-extension"
-  },
   "KJEducator_DB5883-extension": {
     "name": "DB5883",
     "description": "3-Axis Digital Compass",
@@ -805,16 +742,6 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/KJEducator/DB5883-extension"
-  },
-  "Thanaphon06_WarpIoT": {
-    "name": "WarpIOT",
-    "description": "Block For Warp IoT",
-    "author": "UP-SKILL",
-    "category": "",
-    "version": "1.0.0",
-    "icon": "/static/beetlecar.png",
-    "color": "#4A7CCC",
-    "github": "https://github.com/Thanaphon06/WarpIoT"
   },
   "Thanaphon06_wrapiot": {
     "name": "WarpIOT",
