@@ -689,16 +689,6 @@
     ],
     "github": "https://github.com/maxpromer/PuppyPID-extension"
   },
-  "sensorthai_bettlecarV1": {
-    "name": "Bettle Car V1",
-    "description": "Bettle CarV1",
-    "author": "up-skill.asia",
-    "category": "Device Control",
-    "version": "1.1.0",
-    "icon": "/static/icon.png",
-    "color": "#0271D9",
-    "github": "https://github.com/sensorthai/bettlecarV1"
-  },
   "chavee_microBlock-NETPIE-extension": {
     "name": "NETPIE",
     "description": "Connect your device to NETPIE IoT platform",
@@ -712,16 +702,6 @@
       "RP2-WiFi"
     ],
     "github": "https://github.com/chavee/microBlock-NETPIE-extension"
-  },
-  "Thanaphon06_beetlecarV1": {
-    "name": "Beetlecar",
-    "description": "",
-    "author": "UP-SKILL",
-    "category": "",
-    "version": "1.0.0",
-    "icon": "/static/beetlecar.png",
-    "color": "#4A7CCC",
-    "github": "https://github.com/Thanaphon06/beetlecarV1"
   },
   "sensorthai_microBlock-NETPIE": {
     "name": "Beetlecar",
