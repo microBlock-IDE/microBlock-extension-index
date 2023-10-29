@@ -412,7 +412,7 @@
     "description": "DS18x20 temperature sensor",
     "author": "AJ.TAY",
     "category": "Sensors",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/AJtrakan/DS18x20-extension"
