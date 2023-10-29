@@ -742,5 +742,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/AJtrakan/MAX30102-extension"
+  },
+  "AJtrakan_TimeDelay-extension": {
+    "name": "TimeDelay",
+    "description": "TimeDelay",
+    "author": "AJ.TAY",
+    "category": "Timing",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/AJtrakan/TimeDelay-extension"
   }
 }
