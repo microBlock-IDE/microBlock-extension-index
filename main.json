@@ -752,5 +752,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/AJtrakan/TimeDelay-extension"
+  },
+  "AJtrakan_EMG-extension": {
+    "name": "EMG Sensors",
+    "description": "SG00165 EMG Sensors",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/AJtrakan/EMG-extension"
   }
 }
