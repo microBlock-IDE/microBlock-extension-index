@@ -762,5 +762,15 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/AJtrakan/EMG-extension"
+  },
+  "AJtrakan_heartrate-extension": {
+    "name": "heart rate",
+    "description": "Pulse Sensor or heart-rate sensor",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "2.1.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/AJtrakan/heartrate-extension"
   }
 }
