@@ -732,5 +732,15 @@
     "icon": "/static/iot.png",
     "color": "#4A7CCC",
     "github": "https://github.com/Thanaphon06/wrapiot"
+  },
+  "AJtrakan_MAX30102-extension": {
+    "name": "MAX30102",
+    "description": "MAX30102 Heart Rate & SPO2 sensor",
+    "author": "AJ.TAY",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/AJtrakan/MAX30102-extension"
   }
 }
