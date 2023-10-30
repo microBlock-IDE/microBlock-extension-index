@@ -776,9 +776,9 @@
   "AJtrakan_T-ZX-THERMO-extension": {
     "name": "T-ZX-THERMO",
     "description": "Non-Contact Temperature Sensor",
-    "author": "AJ.TAY@INEX",
+    "author": "AJ.TAY_By_INEX",
     "category": "Sensors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/AJtrakan/T-ZX-THERMO-extension"
