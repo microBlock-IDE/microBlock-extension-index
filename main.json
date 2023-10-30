@@ -775,7 +775,7 @@
   },
   "AJtrakan_T-ZX-THERMO-extension": {
     "name": "T-ZX-THERMO",
-    "description": "Non-Contact Temperature Sensor",
+    "description": "Non-Contact Temperature Sensor *>Edit I2C<*",
     "author": "AJ.TAY_By_INEX",
     "category": "Sensors",
     "version": "1.0.1",
