@@ -782,5 +782,15 @@
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/AJtrakan/T-ZX-THERMO-extension"
+  },
+  "ArtronShop_SHT30-extension": {
+    "name": "SHT30",
+    "description": "Humidity and Temperature Sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.1",
+    "icon": "/static/icon.png",
+    "color": "#8b507c",
+    "github": "https://github.com/ArtronShop/SHT30-extension"
   }
 }
