@@ -802,5 +802,15 @@
     "icon": "/static/icon.png",
     "color": "#2980B9",
     "github": "https://github.com/KruRin27/OLED-extension2"
+  },
+  "KruRin27_OLED-extensionV2": {
+    "name": "OLED",
+    "description": "Show text and Variable on OLED Display",
+    "author": "KruRin",
+    "category": "Display",
+    "version": "1.0.1",
+    "icon": "icon.png",
+    "color": "#2980B9",
+    "github": "https://github.com/KruRin27/OLED-extensionV2"
   }
 }
