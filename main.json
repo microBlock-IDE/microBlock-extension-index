@@ -792,5 +792,15 @@
     "icon": "/static/icon.png",
     "color": "#8b507c",
     "github": "https://github.com/ArtronShop/SHT30-extension"
+  },
+  "KruRin27_OLED-extension2": {
+    "name": "OLED",
+    "description": "Show text and image on OLED Display",
+    "author": "microBlock",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2980B9",
+    "github": "https://github.com/KruRin27/OLED-extension2"
   }
 }
