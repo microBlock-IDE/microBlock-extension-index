@@ -484,11 +484,11 @@
     "github": "https://github.com/ArtronShop/BMP280-extension"
   },
   "maxpromer_iBIT-extension": {
-    "name": "iBIT",
+    "name": "iBIT V2A",
     "description": "iBIT package for microBlock, Robot board control by Mbits, OpenBit",
     "author": "INEX",
     "category": "Device Control",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "chip": [
