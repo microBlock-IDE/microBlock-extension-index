@@ -822,7 +822,7 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "chip": [
-      "esp32"
+      "RP2"
     ],
     "github": "https://github.com/maxpromer/TCS3472-extension"
   }
