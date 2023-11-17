@@ -815,5 +815,15 @@
       "RP2"
     ],
     "github": "https://github.com/maxpromer/TCS3472-extension"
+  },
+  "KruRin27_OLED-KruRin": {
+    "name": "OLED KruRin",
+    "description": "Show text and Variable on OLED Display",
+    "author": "KruRin",
+    "category": "Display",
+    "version": "1.0.1",
+    "icon": "icon.png",
+    "color": "#2980B9",
+    "github": "https://github.com/KruRin27/OLED-KruRin"
   }
 }
