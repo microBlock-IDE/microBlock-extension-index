@@ -825,5 +825,18 @@
     "icon": "icon.png",
     "color": "#2980B9",
     "github": "https://github.com/KruRin27/OLED-KruRin"
+  },
+  "maxpromer_TCS34725-extension": {
+    "name": "TCS34725",
+    "description": "Color Sensor for PuppyBot",
+    "author": "PrinceBot",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "chip": [
+      "RP2"
+    ],
+    "github": "https://github.com/maxpromer/TCS34725-extension"
   }
 }
