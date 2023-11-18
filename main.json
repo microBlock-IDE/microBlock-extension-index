@@ -803,19 +803,6 @@
     "color": "#2980B9",
     "github": "https://github.com/KruRin27/OLED-extensionV2"
   },
-  "maxpromer_TCS3472-extension": {
-    "name": "TCS3472",
-    "description": "Color Sensor for PuppyBot",
-    "author": "PrinceBot",
-    "category": "Sensors",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#3498DB",
-    "chip": [
-      "RP2"
-    ],
-    "github": "https://github.com/maxpromer/TCS3472-extension"
-  },
   "KruRin27_OLED-KruRin": {
     "name": "OLED KruRin",
     "description": "Show text and Variable on OLED Display",
