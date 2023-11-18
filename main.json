@@ -463,16 +463,6 @@
     ],
     "github": "https://github.com/iPAS/Blynk-extension"
   },
-  "ESPuppy_OLED-extension-1": {
-    "name": "OLED",
-    "description": "Show text and image on OLED Display",
-    "author": "microBlock",
-    "category": "Display",
-    "version": "1.0.0",
-    "icon": "icon.png",
-    "color": "#2980B9",
-    "github": "https://github.com/ESPuppy/OLED-extension-1"
-  },
   "ArtronShop_BMP280-extension": {
     "name": "BMP280",
     "description": "Pressure sensor",
@@ -809,7 +799,7 @@
     "author": "KruRin",
     "category": "Display",
     "version": "1.0.1",
-    "icon": "icon.png",
+    "icon": "/static/icon.png",
     "color": "#2980B9",
     "github": "https://github.com/KruRin27/OLED-KruRin"
   },
