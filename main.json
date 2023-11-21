@@ -815,5 +815,15 @@
       "RP2"
     ],
     "github": "https://github.com/maxpromer/TCS34725-extension"
+  },
+  "apinuntong_EasyKids_Remote-extension": {
+    "name": "EasyKids Remote",
+    "description": "EasyKids Remote",
+    "author": "ER9X",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0f3058",
+    "github": "https://github.com/apinuntong/EasyKids_Remote-extension"
   }
 }
