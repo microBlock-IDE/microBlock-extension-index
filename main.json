@@ -825,5 +825,19 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/apinuntong/EasyKids_Remote-extension"
+  },
+  "Thanaphon06_beetlecar_extention": {
+    "name": "betlecar",
+    "description": "",
+    "author": "UP-SKILL",
+    "category": "",
+    "version": "1.0.0",
+    "icon": "/static/beetlecar.png",
+    "color": "#4A7CCC",
+    "chip": [
+      "ESP32",
+      "RP2-WiFi"
+    ],
+    "github": "https://github.com/Thanaphon06/beetlecar_extention"
   }
 }
