@@ -839,5 +839,15 @@
       "RP2-WiFi"
     ],
     "github": "https://github.com/Thanaphon06/beetlecar_extention"
+  },
+  "maxpromer_microDriver-extension": {
+    "name": "microDriver",
+    "description": "OpenBit Driver Expansion Board",
+    "author": "INEX",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/maxpromer/microDriver-extension"
   }
 }
