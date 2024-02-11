@@ -899,5 +899,20 @@
       "TinyGPS@13.0.0"
     ],
     "github": "https://github.com/ArtronShop/GPS-extension"
+  },
+  "microBlock-IDE_DS18B20-extension": {
+    "name": "DS18B20",
+    "description": "get the temperature from DS18B20",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2C3E50",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "DS18B20@1.0.0",
+      "OneWire@2.3.7"
+    ],
+    "github": "https://github.com/microBlock-IDE/DS18B20-extension"
   }
 }
