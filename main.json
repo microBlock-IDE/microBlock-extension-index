@@ -914,5 +914,20 @@
       "OneWire@2.3.7"
     ],
     "github": "https://github.com/microBlock-IDE/DS18B20-extension"
+  },
+  "microBlock-IDE_DHTxx-extension": {
+    "name": "DHT11/DHT22",
+    "description": "Temperature and Humidity Sensor",
+    "author": "ArtronShop",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "DHT sensor library@1.4.6",
+      "Adafruit Unified Sensor@1.1.14"
+    ],
+    "github": "https://github.com/microBlock-IDE/DHTxx-extension"
   }
 }
