@@ -76,6 +76,8 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#F39C12",
+    "supportArduinoPlatform": true,
+    "depends": [],
     "github": "https://github.com/microBlock-IDE/Buzzer-extension"
   },
   "microBlock-IDE_HTTP-extension": {
