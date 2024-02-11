@@ -847,5 +847,21 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/maxpromer/microDriver-extension"
+  },
+  "microBlock-IDE_oled-extension-arduino": {
+    "name": "OLED",
+    "description": "Display text, number, image on OLED display",
+    "author": "ArtronShop",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#8b507c",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "Adafruit SSD1306@2.5.9",
+      "Adafruit GFX Library@1.11.9",
+      "Adafruit BusIO@1.15.0"
+    ],
+    "github": "https://github.com/microBlock-IDE/oled-extension-arduino"
   }
 }
