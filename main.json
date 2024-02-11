@@ -885,5 +885,19 @@
     "supportArduinoPlatform": true,
     "depends": [],
     "github": "https://github.com/microBlock-IDE/Ultrasonic2-extension"
+  },
+  "ArtronShop_GPS-extension": {
+    "name": "GPS",
+    "description": "Get latitude longitude and speed from GPS module",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.1.0",
+    "icon": "/static/icon.png",
+    "color": "#5DADE2",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "TinyGPS@13.0.0"
+    ],
+    "github": "https://github.com/ArtronShop/GPS-extension"
   }
 }
