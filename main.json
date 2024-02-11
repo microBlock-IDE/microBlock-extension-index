@@ -100,6 +100,10 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#0271D9",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "Servo@1.2.1"
+    ],
     "github": "https://github.com/microBlock-IDE/Servo-extension"
   },
   "microBlock-IDE_MPU6050-extension": {
