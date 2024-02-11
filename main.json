@@ -889,9 +889,9 @@
   "ArtronShop_GPS-extension": {
     "name": "GPS",
     "description": "Get latitude longitude and speed from GPS module",
-    "author": "IOXhop.com",
+    "author": "ArtronShop",
     "category": "Sensors",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "icon": "/static/icon.png",
     "color": "#5DADE2",
     "supportArduinoPlatform": true,
