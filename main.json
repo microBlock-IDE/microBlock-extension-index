@@ -113,9 +113,13 @@
     "description": "6-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices",
     "author": "microBlock",
     "category": "Sensors",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#E74C3C",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "MPU6050@1.3.0"
+    ],
     "github": "https://github.com/microBlock-IDE/MPU6050-extension"
   },
   "microBlock-IDE_TM1637-extension": {
