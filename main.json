@@ -775,12 +775,16 @@
   },
   "ArtronShop_SHT30-extension": {
     "name": "SHT30",
-    "description": "Humidity and Temperature Sensor",
-    "author": "IOXhop.com",
+    "description": "Temperature and Humidity Sensor",
+    "author": "ArtronShop",
     "category": "Sensors",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#8b507c",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "ArtronShop_SHT3x@1.0.0"
+    ],
     "github": "https://github.com/ArtronShop/SHT30-extension"
   },
   "KruRin27_OLED-extensionV2": {
