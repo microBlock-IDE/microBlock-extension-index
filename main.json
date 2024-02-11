@@ -869,5 +869,17 @@
       "Adafruit BusIO@1.15.0"
     ],
     "github": "https://github.com/microBlock-IDE/oled-extension-arduino"
+  },
+  "microBlock-IDE_Ultrasonic2-extension": {
+    "name": "Ultrasonic2",
+    "description": "Get distance from ultrasonic sensor (support any boards)",
+    "author": "microBlock",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "supportArduinoPlatform": true,
+    "depends": [],
+    "github": "https://github.com/microBlock-IDE/Ultrasonic2-extension"
   }
 }
