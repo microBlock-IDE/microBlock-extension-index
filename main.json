@@ -435,16 +435,6 @@
     "color": "#004098",
     "github": "https://github.com/javanesse/Ultrasonic-extension"
   },
-  "javanesse_microBlock-Math-Operator": {
-    "name": "Another Operators",
-    "description": "Missing Math Value",
-    "author": "javanesse.net",
-    "category": "Data Processing",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#F39C12",
-    "github": "https://github.com/javanesse/microBlock-Math-Operator"
-  },
   "microBlock-IDE_NeoPixelRP2-extension": {
     "name": "NeoPixel",
     "description": "Write light to NeoPixel for RP2 chip",
@@ -707,16 +697,6 @@
     ],
     "github": "https://github.com/chavee/microBlock-NETPIE-extension"
   },
-  "sensorthai_microBlock-NETPIE": {
-    "name": "Beetlecar",
-    "description": "",
-    "author": "UP-SKILL",
-    "category": "",
-    "version": "1.0.0",
-    "icon": "/static/beetlecar.png",
-    "color": "#4A7CCC",
-    "github": "https://github.com/sensorthai/microBlock-NETPIE"
-  },
   "KJEducator_DB5883-extension": {
     "name": "DB5883",
     "description": "3-Axis Digital Compass",
@@ -726,16 +706,6 @@
     "icon": "/static/icon.png",
     "color": "#0f3058",
     "github": "https://github.com/KJEducator/DB5883-extension"
-  },
-  "Thanaphon06_wrapiot": {
-    "name": "WarpIOT",
-    "description": "Block For Warp IoT",
-    "author": "UP-SKILL",
-    "category": "",
-    "version": "1.0.0",
-    "icon": "/static/iot.png",
-    "color": "#4A7CCC",
-    "github": "https://github.com/Thanaphon06/wrapiot"
   },
   "AJtrakan_MAX30102-extension": {
     "name": "MAX30102",
@@ -801,26 +771,6 @@
     ],
     "github": "https://github.com/ArtronShop/SHT30-extension"
   },
-  "KruRin27_OLED-extensionV2": {
-    "name": "OLED",
-    "description": "Show text and Variable on OLED Display",
-    "author": "KruRin",
-    "category": "Display",
-    "version": "1.0.1",
-    "icon": "/static/icon.png",
-    "color": "#2980B9",
-    "github": "https://github.com/KruRin27/OLED-extensionV2"
-  },
-  "KruRin27_OLED-KruRin": {
-    "name": "OLED KruRin",
-    "description": "Show text and Variable on OLED Display",
-    "author": "KruRin",
-    "category": "Display",
-    "version": "1.0.1",
-    "icon": "/static/icon.png",
-    "color": "#2980B9",
-    "github": "https://github.com/KruRin27/OLED-KruRin"
-  },
   "maxpromer_TCS34725-extension": {
     "name": "TCS34725",
     "description": "Color Sensor for PuppyBot",
@@ -833,16 +783,6 @@
       "RP2"
     ],
     "github": "https://github.com/maxpromer/TCS34725-extension"
-  },
-  "apinuntong_EasyKids_Remote-extension": {
-    "name": "EasyKids Remote",
-    "description": "EasyKids Remote",
-    "author": "ER9X",
-    "category": "Sensors",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#0f3058",
-    "github": "https://github.com/apinuntong/EasyKids_Remote-extension"
   },
   "Thanaphon06_beetlecar_extention": {
     "name": "betlecar",
