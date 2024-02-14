@@ -21,12 +21,17 @@
     "description": "Send notification from everywhere to LINE",
     "author": "microBlock",
     "category": "Communication",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "icon": "/static/icon.png",
     "color": "#28B463",
     "chip": [
       "ESP32",
-      "RP2-WiFi"
+      "RP2-WiFi",
+      "Uno-R4-WiFi"
+    ],
+    "supportArduinoPlatform": true,
+    "depends": [
+      "ArtronShop_LineNotify@1.0.2"
     ],
     "github": "https://github.com/microBlock-IDE/LINENotify-extension"
   },
