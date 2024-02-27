@@ -702,7 +702,7 @@
     "description": "Connect your device to NETPIE IoT platform",
     "author": "Chavee Issariyapat",
     "category": "Communication",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "icon": "/static/icon.png",
     "color": "#4A7CCC",
     "chip": [
