@@ -893,17 +893,5 @@
       "Adafruit Unified Sensor@1.1.14"
     ],
     "github": "https://github.com/microBlock-IDE/DHTxx-extension"
-  },
-  "PowerShop_L298N": {
-    "name": "L298N",
-    "description": "L298N Motor Driver Extension by Kittisak",
-    "author": "Kittisak",
-    "category": "Device Control",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#0271D9",
-    "supportArduinoPlatform": true,
-    "depends": [],
-    "github": "https://github.com/PowerShop/L298N"
   }
 }
