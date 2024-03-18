@@ -930,8 +930,8 @@
   },
   "nawaphan123_Firebase": {
     "name": "Firebase",
-    "description": "Firebase Realtime Database",
-    "author": "microBlock",
+    "description": "Fix bug",
+    "author": "Nawa",
     "category": "Communication",
     "version": "1.1.0",
     "icon": "/static/icon.png",
