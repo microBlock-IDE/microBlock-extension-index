@@ -893,5 +893,16 @@
       "Adafruit Unified Sensor@1.1.14"
     ],
     "github": "https://github.com/microBlock-IDE/DHTxx-extension"
-  }
+  },
+  "Nawa PhansaenExtension":{
+    "name": "Blynk Legacy",
+    "description": "Use For Old Blynk",
+    "author": "Nawa",
+    "category": "Communication",
+    "version": "2.0.0",
+    "icon": "/static/icon.png",
+    "color": "#bc991a",
+    "github": "https://github.com/nawaphan123/Blynk-Legacy-Extension"
+
+  },
 }
