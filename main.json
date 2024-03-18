@@ -913,5 +913,19 @@
       "BlynkNcpDriver@0.6.3"
     ],
     "github": "https://github.com/nawaphan123/Blynk-Legacy-Extension"
+  },
+  "nawaphan123_gps": {
+    "name": "GPS",
+    "description": "Get latitude longitude and speed from GPS module",
+    "author": "ArtronShop",
+    "category": "Sensors",
+    "version": "1.2.0",
+    "icon": "/static/icon.png",
+    "color": "#5DADE2",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "TinyGPS@13.0.0"
+    ],
+    "github": "https://github.com/nawaphan123/gps"
   }
 }
