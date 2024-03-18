@@ -943,12 +943,12 @@
     "github": "https://github.com/nawaphan123/Firebase"
   },
   "nawaphan123_Blynk-Legacy": {
-    "name": "Blynk(MOD)",
+    "name": "Blynk-Legacy",
     "description": "Use For Old Blynk",
     "author": "Nawa",
     "category": "Communication",
     "version": "1.0.0",
-    "icon": "/static/icon.png",
+    "icon": "/static/icon(2).png",
     "color": "#bc991a",
     "chip": [
       "ESP32",
