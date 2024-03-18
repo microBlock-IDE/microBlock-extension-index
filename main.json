@@ -916,8 +916,8 @@
   },
   "nawaphan123_gps": {
     "name": "GPS",
-    "description": "Get latitude longitude and speed from GPS module",
-    "author": "Nawa",
+    "description": "Get latitude longitude and speed from GPS module (gy-neo6mv2)",
+    "author": "Nawa Phansaen",
     "category": "Sensors",
     "version": "1.2.0",
     "icon": "/static/icon2.png",
