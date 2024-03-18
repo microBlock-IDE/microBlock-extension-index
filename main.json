@@ -948,7 +948,7 @@
     "author": "Nawa",
     "category": "Communication",
     "version": "1.0.0",
-    "icon": "/static/icon(2).png",
+    "icon": "/static/icon.png",
     "color": "#bc991a",
     "chip": [
       "ESP32",
