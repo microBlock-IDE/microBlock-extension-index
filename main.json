@@ -927,5 +927,15 @@
       "BlynkNcpDriver@0.6.3"
     ],
     "github": "https://github.com/nawaphan123/Blynk-Legacy"
+  },
+  "Thanaphon06_warp_IoT_extentionn": {
+    "name": "Warp IoT",
+    "description": "",
+    "author": "UP-SKILL",
+    "category": "",
+    "version": "1.0.0",
+    "icon": "/static/1.png",
+    "color": "#4A7CCC",
+    "github": "https://github.com/Thanaphon06/warp_IoT_extentionn"
   }
 }
