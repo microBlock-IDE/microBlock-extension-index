@@ -937,5 +937,15 @@
     "icon": "/static/1.png",
     "color": "#4A7CCC",
     "github": "https://github.com/Thanaphon06/warp_IoT_extentionn"
+  },
+  "nawaphan123_MotorDriveTB6612FNG": {
+    "name": "MotorDriver",
+    "description": "MOTOR DRIVER TB6612FNG for every board use only 4 pin(PWM)",
+    "author": "Nawa Phansaen",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#d63838",
+    "github": "https://github.com/nawaphan123/MotorDriveTB6612FNG"
   }
 }
