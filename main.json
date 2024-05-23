@@ -957,5 +957,15 @@
     "icon": "/static/icon.png",
     "color": "#4ca9e6",
     "github": "https://github.com/nawaphan123/OLED-0.96"
+  },
+  "ArtronShop_DotMatrix-extension": {
+    "name": "Dot Matrix",
+    "description": "Show text with animation to MAX7219 Dot Matrix",
+    "author": "IOXhop.com",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/ArtronShop/DotMatrix-extension"
   }
 }
