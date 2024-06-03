@@ -967,5 +967,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/ArtronShop/DotMatrix-extension"
+  },
+  "nawaphan123_mpu6050-Extention": {
+    "name": "MPU6050",
+    "description": "Read gyro data from mpu6050",
+    "author": "Nawa Phansaen",
+    "category": "Sensors",
+    "version": "1.1.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "github": "https://github.com/nawaphan123/mpu6050-Extention"
   }
 }
