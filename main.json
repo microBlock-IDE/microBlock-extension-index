@@ -987,5 +987,15 @@
     "icon": "/static/icon.png",
     "color": "#FF5757",
     "github": "https://github.com/nawaphan123/NTP-client-Extention"
+  },
+  "nawaphan123_Math-Extension": {
+    "name": "Math",
+    "description": "Calculate Text like '1+2+3' and output is 6",
+    "author": "Nawa Phansaen",
+    "category": "Data Processing",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#0570fc",
+    "github": "https://github.com/nawaphan123/Math-Extension"
   }
 }
