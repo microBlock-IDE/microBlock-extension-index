@@ -1007,5 +1007,21 @@
     "icon": "/static/icon.png",
     "color": "#4ca9e6",
     "github": "https://github.com/nawaphan123/OLED-0.96-Extension"
+  },
+  "GIPdA_microBlock-IDE_ESP-NOW-extension": {
+    "name": "ESP-NOW",
+    "description": "Communication between ESP via ESP-NOW",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.1",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "modules": [
+      "modules/ESPNOW.py"
+    ],
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/GIPdA/microBlock-IDE_ESP-NOW-extension"
   }
 }
