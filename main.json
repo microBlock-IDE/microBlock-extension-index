@@ -1023,5 +1023,21 @@
       "ESP32"
     ],
     "github": "https://github.com/GIPdA/microBlock-IDE_ESP-NOW-extension"
+  },
+  "GIPdA_microBlock-IDE_ESPnow-extension": {
+    "name": "ESPnow",
+    "description": "Communication between ESP32 via ESPnow",
+    "author": "gipda",
+    "category": "Communication",
+    "version": "2.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "modules": [
+      "modules/ESPNOW.py"
+    ],
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/GIPdA/microBlock-IDE_ESPnow-extension"
   }
 }
