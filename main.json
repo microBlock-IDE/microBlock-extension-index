@@ -979,7 +979,7 @@
     "github": "https://github.com/nawaphan123/mpu6050-Extention"
   },
   "nawaphan123_NTP-client-Extention": {
-    "name": "NTP",
+    "name": "NTP Client",
     "description": "Get Real Time Clock from internet",
     "author": "Nawa Phansaen",
     "category": "Timing",
