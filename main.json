@@ -1039,5 +1039,15 @@
       "ESP32"
     ],
     "github": "https://github.com/GIPdA/microBlock-IDE_ESPnow-extension"
+  },
+  "jira-edu_SPI-RFID-extension": {
+    "name": "SPI-RFID",
+    "description": "ESP32 RFID reader Mifare 13.56MHz SPI interface",
+    "author": "Jira-edu",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/jira-edu/SPI-RFID-extension"
   }
 }
