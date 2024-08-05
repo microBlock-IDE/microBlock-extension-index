@@ -1049,5 +1049,15 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/jira-edu/SPI-RFID-extension"
+  },
+  "EasyKidsRoboticsDev_App": {
+    "name": "App",
+    "description": "ESP32 BLE UART",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#F39C12",
+    "github": "https://github.com/EasyKidsRoboticsDev/App"
   }
 }
