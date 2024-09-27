@@ -1059,5 +1059,15 @@
     "icon": "/static/icon.png",
     "color": "#F39C12",
     "github": "https://github.com/EasyKidsRoboticsDev/App"
+  },
+  "nawaphan123_N-CHEAP": {
+    "name": "N-CHEAP",
+    "description": "Extention for N-CHEAP BOARD",
+    "author": "Nawa Phansaen",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#d63838",
+    "github": "https://github.com/nawaphan123/N-CHEAP"
   }
 }
