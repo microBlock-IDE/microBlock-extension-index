@@ -1079,5 +1079,15 @@
     "icon": "/static/icon.png",
     "color": "#d63838",
     "github": "https://github.com/nawaphan123/N-CHEAP-BLOCK"
+  },
+  "ArtronShop_DHT12-extension": {
+    "name": "DHT12",
+    "description": "Digital temperature and humidity sensor",
+    "author": "IOXhop.com",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "github": "https://github.com/ArtronShop/DHT12-extension"
   }
 }
