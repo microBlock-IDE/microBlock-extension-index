@@ -1089,5 +1089,22 @@
     "icon": "/static/icon.png",
     "color": "#3498DB",
     "github": "https://github.com/ArtronShop/DHT12-extension"
+  },
+  "natheelic_WiFi-extension": {
+    "name": "WiFi",
+    "description": "Connect to WiFi",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.2.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "chip": [
+      "ESP32",
+      "RP2-WiFi",
+      "Uno-R4-WiFi"
+    ],
+    "supportArduinoPlatform": true,
+    "depends": [],
+    "github": "https://github.com/natheelic/WiFi-extension"
   }
 }
