@@ -1120,5 +1120,19 @@
       "TinyGPS@13.0.0"
     ],
     "github": "https://github.com/nawaphan123/Gps-neo6m-Extension"
+  },
+  "MPU6050_light": {
+    "name": "MPU6050",
+    "description": "MPU6050_light for Microblock IDE",
+    "author": "NightHawk Robotics",
+    "category": "Sensors",
+    "version": "0.0.1",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "supportArduinoPlatform": true,
+    "depends": [
+      "MPU6050_light@1.2.1"
+    ],
+    "github": "https://github.com/NightHawk-Technology/Microblock-MPU6050-light"
   }
 }
