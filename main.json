@@ -1120,5 +1120,24 @@
       "TinyGPS@13.0.0"
     ],
     "github": "https://github.com/nawaphan123/Gps-neo6m-Extension"
+  },
+  "ArtronShop_AmAlert-extension": {
+    "name": "Am Alert",
+    "description": "Send notification from everywhere via Am Alert",
+    "author": "ArtronShop",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#28B463",
+    "chip": [
+      "ESP32",
+      "RP2-WiFi",
+      "Uno-R4-WiFi"
+    ],
+    "supportArduinoPlatform": true,
+    "depends": [
+      "AmAlert-Arduino@1.0.1"
+    ],
+    "github": "https://github.com/ArtronShop/AmAlert-extension"
   }
 }
