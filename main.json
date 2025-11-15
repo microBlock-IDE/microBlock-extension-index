@@ -1146,7 +1146,7 @@
     "author": "siwakorn-1978",
     "category": "Communication",
     "version": "1.0.0",
-    "icon": "static/robotdd_mecanum.png",
+    "icon": "/static/icon.png",
     "color": "#FF9800",
     "chip": [
       "ESP32"
