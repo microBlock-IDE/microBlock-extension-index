@@ -1139,5 +1139,22 @@
       "AmAlert-Arduino@1.0.1"
     ],
     "github": "https://github.com/ArtronShop/AmAlert-extension"
+  },
+  "siwakorn-1978_microblock_robotdd": {
+    "name": "WiFi",
+    "description": "Connect to WiFi",
+    "author": "microBlock",
+    "category": "Communication",
+    "version": "1.2.0",
+    "icon": "/static/icon.png",
+    "color": "#3498DB",
+    "chip": [
+      "ESP32",
+      "RP2-WiFi",
+      "Uno-R4-WiFi"
+    ],
+    "supportArduinoPlatform": true,
+    "depends": [],
+    "github": "https://github.com/siwakorn-1978/microblock_robotdd"
   }
 }
