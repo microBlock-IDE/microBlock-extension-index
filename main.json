@@ -1141,19 +1141,17 @@
     "github": "https://github.com/ArtronShop/AmAlert-extension"
   },
   "siwakorn-1978_microblock_robotdd": {
-    "name": "WiFi",
-    "description": "Connect to WiFi",
-    "author": "microBlock",
+    "name": "RobotDD Serial",
+    "description": "UART helper blocks for RobotDD (ESP32 DevKit)",
+    "author": "siwakorn-1978",
     "category": "Communication",
-    "version": "1.2.0",
-    "icon": "/static/icon.png",
-    "color": "#3498DB",
+    "version": "1.0.0",
+    "icon": "static/robotdd_mecanum.png",
+    "color": "#FF9800",
     "chip": [
-      "ESP32",
-      "RP2-WiFi",
-      "Uno-R4-WiFi"
+      "ESP32"
     ],
-    "supportArduinoPlatform": true,
+    "supportArduinoPlatform": false,
     "depends": [],
     "github": "https://github.com/siwakorn-1978/microblock_robotdd"
   }
