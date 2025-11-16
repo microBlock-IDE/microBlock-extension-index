@@ -1169,5 +1169,20 @@
     "supportArduinoPlatform": false,
     "depends": [],
     "github": "https://github.com/siwakorn-1978/robotdd_extension"
+  },
+  "siwakorn-1978_robotdd_extension2": {
+    "name": "RobotDD",
+    "description": "RobotDD Serial control",
+    "author": "Siwakorn",
+    "category": "RobotDD",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#FFAA00",
+    "chip": [
+      "ESP32"
+    ],
+    "supportArduinoPlatform": false,
+    "depends": [],
+    "github": "https://github.com/siwakorn-1978/robotdd_extension2"
   }
 }
