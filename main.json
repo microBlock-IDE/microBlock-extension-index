@@ -1184,5 +1184,15 @@
     "supportArduinoPlatform": false,
     "depends": [],
     "github": "https://github.com/siwakorn-1978/robotdd_extension2"
+  },
+  "microBlock-IDE_oled-extension": {
+    "name": "OLED",
+    "description": "Show text and image on OLED Display",
+    "author": "microBlock",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2980B9",
+    "github": "https://github.com/microBlock-IDE/oled-extension"
   }
 }
