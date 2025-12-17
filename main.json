@@ -625,11 +625,11 @@
     "github": "https://github.com/Pramotjonsungnoen/input"
   },
   "Pramotjonsungnoen_Sensing": {
-    "name": "sensing map",
-    "description": "Get  distance from  sensing",
+    "name": "Function Map",
+    "description": " Get Function map ",
     "author": "mazlogyzop",
     "category": "Sensors",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "/static/analog.png",
     "color": "#004098",
     "github": "https://github.com/Pramotjonsungnoen/Sensing"
