@@ -1194,5 +1194,19 @@
     "icon": "/static/icon.png",
     "color": "#2980B9",
     "github": "https://github.com/microBlock-IDE/oled-extension"
+  },
+  "ProjectRobal_ModBot_MicroBlock_Extension": {
+    "name": "ModBot",
+    "description": "A library for our modular robot ModBot",
+    "author": "KoNaR",
+    "category": "Education",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#2980B9",
+    "supportArduinoPlatform": false,
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/ProjectRobal/ModBot_MicroBlock_Extension"
   }
 }
