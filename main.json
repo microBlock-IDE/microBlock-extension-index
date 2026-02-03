@@ -1208,5 +1208,19 @@
       "ESP32"
     ],
     "github": "https://github.com/ProjectRobal/ModBot_MicroBlock_Extension"
+  },
+  "capapiluk_ph-extension": {
+    "name": "pH Sensor",
+    "description": "อ่านค่า pH จาก Analog pH Sensor พร้อมคาลิเบรท",
+    "author": "YourName",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#3498db",
+    "chip": [
+      "ESP32",
+      "Arduino"
+    ],
+    "github": "https://github.com/capapiluk/ph-extension"
   }
 }
