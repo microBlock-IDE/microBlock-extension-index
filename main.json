@@ -1222,5 +1222,15 @@
       "Arduino"
     ],
     "github": "https://github.com/capapiluk/ph-extension"
+  },
+  "nawa-dev_OLED-0.96-Extension": {
+    "name": "OLED 0.96",
+    "description": "Oled 0.96 I2C With Anyboard(default is esp32)",
+    "author": "Nawa Phansaen",
+    "category": "Display",
+    "version": "1.0.1",
+    "icon": "/static/icon.png",
+    "color": "#4ca9e6",
+    "github": "https://github.com/nawa-dev/OLED-0.96-Extension"
   }
 }
