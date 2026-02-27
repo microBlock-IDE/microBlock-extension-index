@@ -1235,10 +1235,10 @@
   },
   "xX-AULGZ-Xx_NeoPixel-RGBW_Support": {
     "name": "NeoPixel",
-    "description": "Write light to NeoPixel",
-    "author": "microBlock",
+    "description": "Write light to NeoPixel RGBW",
+    "author": "xX_AULGZ_Xx",
     "category": "Device Control",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "chip": [
