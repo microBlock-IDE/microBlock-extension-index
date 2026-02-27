@@ -1232,5 +1232,18 @@
     "icon": "/static/icon.png",
     "color": "#4ca9e6",
     "github": "https://github.com/nawa-dev/OLED-0.96-Extension"
+  },
+  "xX-AULGZ-Xx_NeoPixel-RGBW_Support": {
+    "name": "NeoPixel",
+    "description": "Write light to NeoPixel",
+    "author": "microBlock",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#27AE60",
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/xX-AULGZ-Xx/NeoPixel-RGBW_Support"
   }
 }
