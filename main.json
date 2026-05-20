@@ -1258,8 +1258,8 @@
   },
   "pcvargas_ADS1115-extension": {
     "id": "ads1115-extension",
-    "name": "ADS1115 Pro",
-    "description": "Módulo ADC de alta precisión I2C para sensores analógicos",
+    "name": "ADS1115 MicroPython",
+    "description": "Módulo ADC de alta precisión I2C para sensores analógicos en MicroPython",
     "category": "Sensores",
     "author": "Pablo Vargas",
     "version": "1.0.0",
