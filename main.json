@@ -1283,8 +1283,8 @@
     "github": "https://github.com/pcvargas/PulseSensor-extension"
   },
   "pcvargas_LEDRGB-extension": {
-    "name": "LED RGB KidBright",
-    "description": "Control de módulos LED RGB SMD 5050 usando exclusivamente los pines externos expuestos de la KidBright32.",
+    "name": "LED RGB SMD",
+    "description": "Control de módulos LED RGB SMD 2026 mediante canales PWM independientes en los GPIO 18, 19 y 23.",
     "author": "Pablo Cesar Vargas Diaz",
     "category": "Device Control",
     "version": "1.0.0",
