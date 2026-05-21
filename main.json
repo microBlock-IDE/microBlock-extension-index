@@ -1257,14 +1257,17 @@
     "github": "https://github.com/sanamshakya/WebSocketController-2e"
   },
   "pcvargas_ADS1115-extension": {
-    "id": "ads1115-extension",
-    "name": "ADS1115 MicroPython",
-    "description": "Módulo ADC de alta precisión I2C para sensores analógicos en MicroPython",
-    "category": "Sensores",
-    "author": "Pablo Vargas",
+    "id": "ads1115_esp32_adc",
+    "name": "ADS1115 ADC 16-Bit",
+    "description": "Extensión para leer canales analógicos de alta precisión usando el módulo ADS1115 e I2C en ESP32.",
     "version": "1.0.0",
-    "color": "#8E44AD",
-    "icon": "icon.png",
+    "author": "Pablo Cesar Vargas Diaz",
+    "category": "Sensors",
+    "color": "#2C3E50",
+    "icon": "/static/icon.png",
+    "modules": [
+      "modules/ads1115.py"
+    ],
     "github": "https://github.com/pcvargas/ADS1115-extension"
   }
 }
