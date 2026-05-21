@@ -1268,5 +1268,18 @@
       "ESP32"
     ],
     "github": "https://github.com/pcvargas/ADS1115-extension"
+  },
+  "pcvargas_PulseSensor-extension": {
+    "name": "Pulse Sensor",
+    "description": "Medición de frecuencia cardíaca (BPM) y lectura de señal analógica en tiempo real con el Pulse Sensor Amped.",
+    "author": "Pablo Cesar Vargas Diaz",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/pcvargas/PulseSensor-extension"
   }
 }
