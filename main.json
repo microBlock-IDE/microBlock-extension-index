@@ -1257,16 +1257,15 @@
     "github": "https://github.com/sanamshakya/WebSocketController-2e"
   },
   "pcvargas_ADS1115-extension": {
-    "id": "ads1115_esp32_adc",
-    "name": "ADS1115 ADC 16-Bit",
-    "description": "Lectura analógica de alta precisión (16 bits) usando el módulo ADS1115 e I2C en la ESP32.",
-    "version": "1.0.0",
+    "name": "ADS1115 ADC",
+    "description": "Lectura analógica de alta precisión de 16 bits usando el chip ADS1115 e I2C.",
     "author": "Pablo Cesar Vargas Diaz",
     "category": "Sensors",
-    "color": "#2C3E50",
+    "version": "1.0.0",
     "icon": "/static/icon.png",
-    "modules": [
-      "modules/ads1115.py"
+    "color": "#2C3E50",
+    "chip": [
+      "ESP32"
     ],
     "github": "https://github.com/pcvargas/ADS1115-extension"
   }
