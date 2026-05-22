@@ -1296,7 +1296,7 @@
     "github": "https://github.com/pcvargas/LEDRGB-extension"
   },
   "pcvargas_DFPlayer-extension": {
-    "name": "DFPlayer KidBright",
+    "name": "DFPlayer",
     "description": "Reproductor multimedia MP3/WAV utilizando exclusivamente los pines externos expuestos de la KidBright32.",
     "author": "Pablo Cesar Vargas Diaz",
     "category": "Device Control",
