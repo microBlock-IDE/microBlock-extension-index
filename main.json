@@ -85,9 +85,9 @@
   "microBlock-IDE_Buzzer-extension": {
     "name": "Buzzer",
     "description": "Make buzzer beep sound",
-    "author": "microBlock",
+    "author": "microBlock | timor2542",
     "category": "Device Control",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "/static/icon.png",
     "color": "#F39C12",
     "supportArduinoPlatform": true,
