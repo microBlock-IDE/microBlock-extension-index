@@ -1317,5 +1317,15 @@
     "icon": "/static/icon.png",
     "color": "#00A090",
     "github": "https://github.com/bobbycae/extension_microblock"
+  },
+  "bobbycae_kb_chain_led_7segment_microblock": {
+    "name": "KB Chain LED 7Segment",
+    "description": "KB Chain 4-digit LED 7-Segment for KidBright32",
+    "author": "Bobby CE KSU",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#9C27B0",
+    "github": "https://github.com/bobbycae/kb_chain_led_7segment_microblock"
   }
 }
