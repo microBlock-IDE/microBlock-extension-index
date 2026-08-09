@@ -1310,8 +1310,8 @@
   },
   "bobbycae_extension_microblock": {
     "name": "KB Chain OLED",
-    "description": "KB Chain OLED for KidBright32",
-    "author": "bobby ce ksu",
+    "description": "KB Chain OLED 128x64 (SSD1306 / SH1106) for KidBright32",
+    "author": "Bobby CE KSU",
     "category": "Display",
     "version": "1.0.1",
     "icon": "/static/icon.png",
