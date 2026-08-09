@@ -1307,5 +1307,15 @@
       "ESP32"
     ],
     "github": "https://github.com/pcvargas/DFPlayer-extension"
+  },
+  "bobbycae_extension_microblock": {
+    "name": "KB Chain OLED",
+    "description": "KB Chain OLED 128x64 (SSD1306 / SH1106) for KidBright32",
+    "author": "Ported for microBlock IDE from Gravitech KB Chain OLED",
+    "category": "Display",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#00A090",
+    "github": "https://github.com/bobbycae/extension_microblock"
   }
 }
