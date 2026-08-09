@@ -1327,5 +1327,15 @@
     "icon": "/static/icon.png",
     "color": "#9C27B0",
     "github": "https://github.com/bobbycae/kb_chain_led_7segment_microblock"
+  },
+  "bobbycae_kb_chain_motor_microblock": {
+    "name": "KB Motor",
+    "description": "KB Chain Motor for KidBright32",
+    "author": "Bobby CE KSU",
+    "category": "Actuator",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#A05A00",
+    "github": "https://github.com/bobbycae/kb_chain_motor_microblock"
   }
 }
