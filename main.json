@@ -1337,5 +1337,15 @@
     "icon": "/static/icon.png",
     "color": "#A05A00",
     "github": "https://github.com/bobbycae/kb_chain_motor_microblock"
+  },
+  "inexglobal_V7RC-extension": {
+    "name": "V7RC",
+    "description": "V7RC IO Command Protocol receiver for MicroPython UART",
+    "author": "INEX / microBlock",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#CF131C",
+    "github": "https://github.com/inexglobal/V7RC-extension"
   }
 }
