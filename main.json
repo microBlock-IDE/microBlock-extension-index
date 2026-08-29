@@ -1347,5 +1347,15 @@
     "icon": "/static/icon.png",
     "color": "#CF131C",
     "github": "https://github.com/inexglobal/V7RC-extension"
+  },
+  "srinora_A4988_Driver_mBlock_extension": {
+    "name": "A4988 Stepper Motor",
+    "description": "Control one A4988 stepper motor driver with STEP, DIR and optional ENABLE pins on MicroPython boards.",
+    "author": "microBlock community",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#6d5bd0",
+    "github": "https://github.com/srinora/A4988_Driver_mBlock_extension"
   }
 }
