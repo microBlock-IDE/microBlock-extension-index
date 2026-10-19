@@ -1357,5 +1357,15 @@
     "icon": "/static/icon.png",
     "color": "#6d5bd0",
     "github": "https://github.com/srinora/A4988_Driver_mBlock_extension"
+  },
+  "Teerawut101_PMS5003S-extension": {
+    "name": "PMS5003",
+    "description": "Digital universal particle concentration sensor",
+    "author": "Teerawut",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E67E22",
+    "github": "https://github.com/Teerawut101/PMS5003S-extension"
   }
 }
